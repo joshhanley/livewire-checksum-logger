@@ -36,7 +36,7 @@ class LivewireChecksumLogger
 
         $memoSansChildren = array_diff_key($memo, array_flip(['children', 'checksum']));
 
-        $message = "LIVEWIRE COMPONENT \"{$fingerprint['id']}\" - {$type}";
+        $message = "LIVEWIRE COMPONENT \"{$fingerprint['name']}\":\"{$fingerprint['id']}\" - {$type}";
 
         switch ($channel) {
             case 'ray':
