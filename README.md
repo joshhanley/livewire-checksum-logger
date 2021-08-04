@@ -33,8 +33,8 @@ You can then manually compare these to see if there are any differences.
 
 Here is a sample of how it looks in ray:
 
-![ray example](https://github.com/joshhanley/livewire-checksum-logger/tree/main/images/ray-example.png)
+![ray example](https://github.com/joshhanley/livewire-checksum-logger/tree/main/images/ray-example.png?raw=true)
 
 And sample log output:
 
-![log example](https://github.com/joshhanley/livewire-checksum-logger/tree/main/images/log-example.png)
+![log example](https://github.com/joshhanley/livewire-checksum-logger/tree/main/images/log-example.png?raw=true)
