@@ -30,3 +30,11 @@ You should see the Livewire component ID and "RESPONSE" with the fingerprint and
 Then trigger a Livewire request, and you should see the Livewire component ID and "REQUEST" with the fingerprint and memo payloads.
 
 You can then manually compare these to see if there are any differences.
+
+Here is a sample of how it looks in ray:
+
+![ray example](https://github.com/joshhanley/livewire-checksum-logger/tree/main/images/ray-example.png)
+
+And sample log output:
+
+![log example](https://github.com/joshhanley/livewire-checksum-logger/tree/main/images/log-example.png)
